@@ -1,2 +1,4 @@
 ### Hi there 👋
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suinua&layout=compact&theme=vue" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suinua&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suinua&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suinua&theme=github)
